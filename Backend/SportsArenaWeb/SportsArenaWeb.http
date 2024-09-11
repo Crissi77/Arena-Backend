@@ -1,0 +1,6 @@
+@SportsArenaWeb_HostAddress = http://localhost:5294
+
+GET {{SportsArenaWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

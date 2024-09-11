@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.repository\\repositories\\class\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|solutionrelative:sportsarena.repository\\repositories\\class\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.repository\\repositories\\class\\adminrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|solutionrelative:sportsarena.repository\\repositories\\class\\adminrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.services\\services\\interface\\iadminser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|solutionrelative:sportsarena.services\\services\\interface\\iadminser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.services\\services\\class\\adminser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|solutionrelative:sportsarena.services\\services\\class\\adminser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\statusupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\statusupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.repository\\repositories\\interface\\iadminrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|solutionrelative:sportsarena.repository\\repositories\\interface\\iadminrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.repository\\repositories\\class\\user\\userregisterationrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|solutionrelative:sportsarena.repository\\repositories\\class\\user\\userregisterationrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dbmodels\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dbmodels\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0131A0D-1D18-4A94-B1AB-E64E997F68B4}|SportsArena.Database\\SportsArena.Database.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.database\\sportsdb\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0131A0D-1D18-4A94-B1AB-E64E997F68B4}|SportsArena.Database\\SportsArena.Database.csproj|solutionrelative:sportsarena.database\\sportsdb\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.repository\\repositories\\interface\\iuserrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9ABF8-A567-4555-817E-4F4341D726BE}|SportsArena.Repository\\SportsArena.Repository.csproj|solutionrelative:sportsarena.repository\\repositories\\interface\\iuserrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.services\\services\\class\\user\\userser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|solutionrelative:sportsarena.services\\services\\class\\user\\userser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.services\\services\\interface\\iuser\\iuserser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09970D3-94BE-45FB-8F44-C832A102A785}|SportsArena.Services\\SportsArena.Services.csproj|solutionrelative:sportsarena.services\\services\\interface\\iuser\\iuserser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dbmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dbmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarenaweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF6C23-9777-459A-8459-2CB413DE20B6}|SportsArenaWeb\\SportsArenaWeb.csproj|solutionrelative:sportsarenaweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dbmodels\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dbmodels\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dbmodels\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dbmodels\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\sportsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\sportsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|c:\\users\\hp\\source\\repos\\sportsarena\\backend\\sportsarena.models\\dtomodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2B6279-F317-4024-8051-C07D88CE32BC}|SportsArena.Models\\SportsArena.Models.csproj|solutionrelative:sportsarena.models\\dtomodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SportsArenaWeb\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAASwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:33:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SportsArenaWeb\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:51:51.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRep.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Class\\UserRep.cs",
+              "RelativeDocumentMoniker": "SportsArena.Repository\\Repositories\\Class\\UserRep.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Class\\UserRep.cs",
+              "RelativeToolTip": "SportsArena.Repository\\Repositories\\Class\\UserRep.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:16:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\AutoMapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\AutoMapper\\Mapper.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\AutoMapper\\Mapper.cs",
+              "RelativeToolTip": "SportsArenaWeb\\AutoMapper\\Mapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:50:33.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\AppSettings.cs",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\AppSettings.cs",
+              "RelativeToolTip": "SportsArenaWeb\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:41:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Program.cs",
+              "RelativeToolTip": "SportsArenaWeb\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:13:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\appsettings.json",
+              "RelativeToolTip": "SportsArenaWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T09:34:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminRep.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Class\\AdminRep.cs",
+              "RelativeDocumentMoniker": "SportsArena.Repository\\Repositories\\Class\\AdminRep.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Class\\AdminRep.cs",
+              "RelativeToolTip": "SportsArena.Repository\\Repositories\\Class\\AdminRep.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:40:46.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdminSer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Interface\\IAdminSer.cs",
+              "RelativeDocumentMoniker": "SportsArena.Services\\Services\\Interface\\IAdminSer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Interface\\IAdminSer.cs",
+              "RelativeToolTip": "SportsArena.Services\\Services\\Interface\\IAdminSer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:24:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminSer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Class\\AdminSer.cs",
+              "RelativeDocumentMoniker": "SportsArena.Services\\Services\\Class\\AdminSer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Class\\AdminSer.cs",
+              "RelativeToolTip": "SportsArena.Services\\Services\\Class\\AdminSer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:24:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\Cart.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DbModels\\Cart.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\Cart.cs",
+              "RelativeToolTip": "SportsArena.Models\\DbModels\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:04:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\StatusUpdate.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\StatusUpdate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\StatusUpdate.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\StatusUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:26:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAdminRep.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Interface\\IAdminRep.cs",
+              "RelativeDocumentMoniker": "SportsArena.Repository\\Repositories\\Interface\\IAdminRep.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Interface\\IAdminRep.cs",
+              "RelativeToolTip": "SportsArena.Repository\\Repositories\\Interface\\IAdminRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:40:22.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegisterationRep.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Class\\User\\UserRegisterationRep.cs",
+              "RelativeDocumentMoniker": "SportsArena.Repository\\Repositories\\Class\\User\\UserRegisterationRep.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Class\\User\\UserRegisterationRep.cs",
+              "RelativeToolTip": "SportsArena.Repository\\Repositories\\Class\\User\\UserRegisterationRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:54:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Database\\SportsDb\\DataContext.cs",
+              "RelativeDocumentMoniker": "SportsArena.Database\\SportsDb\\DataContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Database\\SportsDb\\DataContext.cs",
+              "RelativeToolTip": "SportsArena.Database\\SportsDb\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:04:24.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "productDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\productDto.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\productDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\productDto.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\productDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:10:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\ProfileDto.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\ProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:10:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\Product.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DbModels\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\Product.cs",
+              "RelativeToolTip": "SportsArena.Models\\DbModels\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:16:37.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IuserSer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Interface\\IUser\\IuserSer.cs",
+              "RelativeDocumentMoniker": "SportsArena.Services\\Services\\Interface\\IUser\\IuserSer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Interface\\IUser\\IuserSer.cs",
+              "RelativeToolTip": "SportsArena.Services\\Services\\Interface\\IUser\\IuserSer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:32:01.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserSer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Class\\User\\UserSer.cs",
+              "RelativeDocumentMoniker": "SportsArena.Services\\Services\\Class\\User\\UserSer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Services\\Services\\Class\\User\\UserSer.cs",
+              "RelativeToolTip": "SportsArena.Services\\Services\\Class\\User\\UserSer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAhwC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:32:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IuserRep.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Interface\\IuserRep.cs",
+              "RelativeDocumentMoniker": "SportsArena.Repository\\Repositories\\Interface\\IuserRep.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Repository\\Repositories\\Interface\\IuserRep.cs",
+              "RelativeToolTip": "SportsArena.Repository\\Repositories\\Interface\\IuserRep.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:40:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\UpdateProfileDto.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\UpdateProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:17:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWeb\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SportsArenaWeb\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:02:37.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\UserAddress.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DbModels\\UserAddress.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\UserAddress.cs",
+              "RelativeToolTip": "SportsArena.Models\\DbModels\\UserAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:18:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\LoginModel.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:10:14.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\UserDetails.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DbModels\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DbModels\\UserDetails.cs",
+              "RelativeToolTip": "SportsArena.Models\\DbModels\\UserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:10:23.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SportsDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\SportsDto.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\SportsDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\SportsDto.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\SportsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:56:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\AdminModel.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\AdminModel.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:10:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\Response.cs",
+              "RelativeDocumentMoniker": "SportsArena.Models\\DTOModels\\Response.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArena.Models\\DTOModels\\Response.cs",
+              "RelativeToolTip": "SportsArena.Models\\DTOModels\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:10:50.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

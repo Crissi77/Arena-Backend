@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\bin\Debug\net8.0\SportsArena.Enums.deps.json
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\bin\Debug\net8.0\SportsArena.Enums.dll
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\bin\Debug\net8.0\SportsArena.Enums.pdb
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\SportsArena.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\SportsArena.Enums.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\SportsArena.Enums.AssemblyInfo.cs
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\SportsArena.Enums.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\SportsArena.Enums.dll
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\refint\SportsArena.Enums.dll
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\SportsArena.Enums.pdb
+C:\Users\HP\source\repos\SportsArena\Backend\SportsArena.Enums\obj\Debug\net8.0\ref\SportsArena.Enums.dll

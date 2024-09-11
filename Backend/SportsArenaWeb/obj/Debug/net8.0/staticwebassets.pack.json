@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\images\\CR7.gif",
+      "PackagePath": "staticwebassets\\images\\CR7.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\images\\Football.jpeg",
+      "PackagePath": "staticwebassets\\images\\Football.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SportsArenaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SportsArenaWeb.props",
+      "PackagePath": "build\\SportsArenaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SportsArenaWeb.props",
+      "PackagePath": "buildMultiTargeting\\SportsArenaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SportsArenaWeb.props",
+      "PackagePath": "buildTransitive\\SportsArenaWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

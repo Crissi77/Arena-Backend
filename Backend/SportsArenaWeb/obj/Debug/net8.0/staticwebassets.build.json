@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "B3W1yphGGCGM3gLw78RBzL7zaK4JzAwxZyW3IoDGeQU=",
+  "Source": "SportsArenaWeb",
+  "BasePath": "_content/SportsArenaWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SportsArenaWeb\\wwwroot",
+      "Source": "SportsArenaWeb",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\",
+      "BasePath": "_content/SportsArenaWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\images\\CR7.gif",
+      "SourceId": "SportsArenaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\",
+      "BasePath": "_content/SportsArenaWeb",
+      "RelativePath": "images/CR7.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CR7.gif"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\images\\Football.jpeg",
+      "SourceId": "SportsArenaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\SportsArena\\Backend\\SportsArenaWeb\\wwwroot\\",
+      "BasePath": "_content/SportsArenaWeb",
+      "RelativePath": "images/Football.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Football.jpeg"
+    }
+  ]
+}
